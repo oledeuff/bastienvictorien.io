@@ -33,6 +33,7 @@ Université de Bordeaux - Septembre 2019 à Juin 2022
 - **Logiciels**: Suite Adobe, PMB, Zettlr, Zotero, GitHub
 - **Communication**: Excellentes compétences rédactionnelles et orales
 - **Gestion de projet**: Capacité à gérer plusieurs projets simultanément
+- **RSO** : Capacité à mettre en place les cadres éthiques et légaux de votre organisation
 
 ## Langues
 
