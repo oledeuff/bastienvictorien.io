@@ -46,7 +46,8 @@ Université de Bordeaux - Septembre 2019 à Juin 2022
 - Rédaction d'articles sur la communication digitale
 - Voyage et découverte de nouvelles cultures
 - Ballade aux quinquonces à 6h du matin après une nuit festive
-- Lever le coude en parlant très fort.
+- Lever le *coude* en parlant très fort.
+- M'investir dans les relations interrégionales (en particulier avec l'Alsace)
 
 ---
 
