@@ -52,4 +52,4 @@ Bac en *pataphysique* mention ubuesque.
 
 ---
 
-Pour plus d'informations ou pour consulter mes réalisations, n'hésitez pas à visiter mon [portfolio en ligne](https://bastienvictorien.github.io/porfolio.html).
+Pour plus d'informations ou pour consulter mes réalisations, n'hésitez pas à visiter mon [portfolio en ligne](https://oledeuff.github.io/bastienvictorien.io/portfolio/).
