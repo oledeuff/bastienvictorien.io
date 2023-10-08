@@ -1,9 +1,5 @@
-Le *Penduloscope* présente deux objectifs :
-- Le premier se rapporte surtout à l'érudition. Il s'agit de collecter, organiser et lier l'ensemble des protagonistes des récits et la myriade de références qui l'accompagne. Ce travail pourrait s'effectuer sur d'autres romans par exemple, et le *Nom de la Rose* s'avérerait également intéressant notamment pour un historien des mouvances sectaires et religieuses de la période médiévale.
-- Le second est de considérer que le roman a une portée au-delà de la fiction et qu'il permet de mieux comprendre les mécanismes du conspirationnisme et de son imaginaire. Mes travaux autour du complot notamment autour des aspects informationnels et communicationnels doivent beaucoup à cet ouvrage. Eco a donc fortement guidé mes articles sur le sujet alors que peu s'y intéressaient sous cet angle.
 
-
-![Photo de Bastien Victorien](https://exemple-url-photo.com/photo-bastien-victorien.jpg)
+![Photo de Bastien Victorien](./bvcv.jpg)
 
 **Étudiant en 3ème année de BUT Infonum**  
 📧 Email: bastien.victorien@email.com  
