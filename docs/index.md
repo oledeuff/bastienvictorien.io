@@ -20,13 +20,13 @@ Université de Bordeaux - Septembre 2019 à Juin 2022
 **Agence Com'Parfaite, Bordeaux** - Juillet 2021 à Août 2021
 - Gestion des réseaux sociaux et création de contenu.
 - Collaboration avec l'équipe de design pour la création de visuels.
-- [Voir une réalisation](https://exemple-url-realisation.com/realisation1)
+- [Voir une réalisation](./realisation1.jpg)
 
 ### Stage - Chargé de Projet Digital
 **Studio Digital Bordelais, Bordeaux** - Juin 2020 à Juillet 2020
 - Conception et mise en œuvre de stratégies digitales pour divers clients.
 - Gestion de projets de A à Z, de la conception à la livraison.
-- [Voir une réalisation](https://exemple-url-realisation.com/realisation2)
+- [Voir une réalisation](./realisation2.jpg)
 
 ## Compétences
 
@@ -42,7 +42,7 @@ Université de Bordeaux - Septembre 2019 à Juin 2022
 
 ## Centres d'intérêt
 
-- Photographie: [Voir mon portfolio](https://exemple-url-portfolio.com)
+- Photographie: [Voir mon portfolio](./portfolio.jpg)
 - Rédaction d'articles sur la communication digitale
 - Voyage et découverte de nouvelles cultures
 - Ballade aux quinquonces à 6h du matin après une nuit festive
@@ -51,4 +51,4 @@ Université de Bordeaux - Septembre 2019 à Juin 2022
 
 ---
 
-Pour plus d'informations ou pour consulter mes réalisations, n'hésitez pas à visiter mon [portfolio en ligne](https://bastienvictorien.github.io).
+Pour plus d'informations ou pour consulter mes réalisations, n'hésitez pas à visiter mon [portfolio en ligne](https://bastienvictorien.github.io/porfolio).
