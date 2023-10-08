@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Portfolio de Bastien Victorien
+permalink: /portfolio/
 ---
-
+Voici mes réalisations.
 
 ![porfolio2](./portfolio2.jpg)
 
