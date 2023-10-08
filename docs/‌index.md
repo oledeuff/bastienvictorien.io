@@ -1,4 +1,8 @@
-# CV Portfolio de Bastien Victorien
+---
+layout: default
+title: Le CV-Portfolio de Bastien Victorien
+---
+
 ![Photo de Bastien Victorien](https://exemple-url-photo.com/photo-bastien-victorien.jpg)
 
 **Étudiant en 3ème année de BUT Infonum**  
