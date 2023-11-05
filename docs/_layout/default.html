@@ -27,12 +27,11 @@
       {% endif %}
 <nav>
   <ul>
-    <li><a href="/index.html">Home</a></li>
-    <li><a href="/portfolio.html">About</a></li>
-    
+    {% for nav_item in site.navigation %}
+      <li><a href="{{ nav_item.url }}">{{ nav_item.title }}</a></li>
+    {% endfor %}
   </ul>
 </nav>
-
     </header>
 
     <main id="content" class="main-content" role="main">

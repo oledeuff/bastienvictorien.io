@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+navigation: # Menu
+  - title: Home
+    url: '/index.md'
+  - title: Portfolio
+    url: '/portfolio.md'
+  - title: Réalisation1
+    url: '/réalisation.md/'
+  
